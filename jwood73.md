@@ -1,4 +1,4 @@
-# Profile: [Jaevon Woods]
+ # Profile: [Jaevon Woods]
 
 - **NetID:** [jwood73]
 - **Major:** [Mathematical Computer Science]
